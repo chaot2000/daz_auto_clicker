@@ -14,3 +14,7 @@ Ein Klicker, um die Seiten von Teachable durch "Geschafft und weiter" zu klicken
 
 Getested mit Firefox 142.0.1
 Tampermonkey v5.3.3
+
+## Screenshot
+
+![Screenshot Auto-Klicker](https://github.com/chaot2000/daz_auto_clicker/blob/main/daz_teachable_button.png)
