@@ -3,9 +3,14 @@ Ein Klicker, der automatisch zu nächsten Lektion weiterleitet.
 
 ## Installation
 
-- File.js vom Laufwerk einfach in das Dashboard von Tampermonkey ziehen
--   Dashboard aufrufen über die Tampermonkey-Icon -> Übersicht klicken
-- File Explorer aufrufen und das JS-File einfach in den Browser ziehen.
+- Datei "Teachable- Weiter-Autoklick (zentriert, Auto-Loop mit Stopp)-1.6.user.js" aus dem Repository herunterladen
+  Dazu einfach das File anklicken
+  Auf dem nächsten Bildschirm oben rechts "Download raw file" klicken
+  Jetzt befindet sich das File in deinem Download-Verzeichnis
+  
+- File mit dem File Explorer im Download Verzeichnis suchen und ins Tampermonkey Dashboard ziehen
+- Dashboard aufrufen über die Tampermonkey-Icon -> Übersicht klicken
+  
 - Im folgenden Bildschirm dann installieren klicken und fertig!
 
 - UserScript aktivieren und die DAZ-Kursseite aufrufen
