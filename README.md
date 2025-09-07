@@ -1,5 +1,5 @@
 # Auto-Klicker für D.A.Z. Kurse bei Teachable
-Ein Klicker, um die Seiten von Teachable durch "Geschafft und weiter" zu klicken.
+Ein Klicker, der automatisch zu nächsten Lektion weiterleitet. 
 
 ## Installation
 
@@ -18,3 +18,9 @@ Tampermonkey v5.3.3
 ## Screenshot
 
 ![Screenshot Auto-Klicker](https://github.com/chaot2000/daz_auto_clicker/blob/main/daz_teachable_button.png)
+
+
+# Nützliche Link
+
+- [Wie installiere ich Tampermonkey (englisch)](https://www.tampermonkey.net/faq.php#Q100)
+- [Wie installiere ich ein UserScript (englisch)](https://www.tampermonkey.net/faq.php#Q102)
